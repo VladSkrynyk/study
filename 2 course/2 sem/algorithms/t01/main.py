@@ -1,17 +1,42 @@
-i = 0
-n = 7
-k = 0
-while i < n:
-    j = 0
-    while j < i * i:
-        k += 1
-        j += 1
-    i += 1
 
-print(k)
+# Місце для Вашого коду
+from itertools import combinations, product, combinations_with_replacement
 
-sum1 = 0
-for i in range(0, 7):
-    sum1 += i**2
-print(sum1)
+# якщо елементи в А повинні бути унікальними
+#A = list(range(1, 21))
+#comb = list(combinations(A, 10))
+
+#count = set()
+#for i in comb:
+#    list_sum = []
+#    for k in range(0, len(i)):
+#        for l in range(0, len(i)):
+#            if k != l:
+#                list_sum.append(i[k] + i[l])
+#    list_sum = set(list_sum)
+#    count.add(len(list_sum))
+
+
+#print(count)
+
+# якщо елементи в А можуть повторюватись
+A = list(range(1, 21))
+comb = list(combinations_with_replacement(A, 10))
+
+count = set()
+print(comb)
+for i in comb:
+    list_sum = []
+    for k in range(0, len(i)):
+        for l in range(0, len(i)):
+            if k != l:
+                list_sum.append(i[k] + i[l])
+    if len(set(list_sum)) == 3:
+        print(f"tyt -> {i}")
+    list_sum = set(list_sum)
+
+    count.add(len(list_sum))
+
+
+print(count)
 
