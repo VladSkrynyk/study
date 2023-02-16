@@ -1,0 +1,7 @@
+f(n) = 3n^2 - n + 4 => O(f) = n^2
+g(n) = n log(n) + 5 => O(g) = n log(n)
+f + g = O(max(n^2,n log(n))) = O(n^2)
+
+
+f1 = O(g1) and f2 = O(g2)
+f1 + f2 = O(max(g1, g2))
