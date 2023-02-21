@@ -1,5 +1,5 @@
 """
-https://www.eolymp.com/uk/submissions/12984869
+https://www.eolymp.com/uk/submissions/12985522
 """
 
 def bsearch_leftmost(array, x):
