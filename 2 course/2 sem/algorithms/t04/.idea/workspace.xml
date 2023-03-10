@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68d99163-90e6-46bd-9dd0-ba5451550517" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../t06/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/.idea/t06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/open_addressing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/separated_chaining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/task3/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/task3/data/library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/task3/data/library.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/task3/data/library_orig.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/task3/data/library_sorted.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/task3/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/task3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/task3/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/task4/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/task4/data/library.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/task4/data/library.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/task4/data/library_orig.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/task4/data/library_sorted.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/task4/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../t06/task4/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../differential_equation/Labs/lab01/Скриник_лабораторна_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../differential_equation/Labs/lab01/Скриник_лабораторна_1.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../probability/Домашня робота 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../probability/Домашня робота 2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../probability/Лабораторне заняття 2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../probability/Лабораторне заняття 2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../probability/Лабораторне_заняття_1_Скриник.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../probability/Лабораторне_заняття_1_Скриник.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../english/speakout_intermediate_plus_students_book.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../english/speakout_intermediate_plus_students_book.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
